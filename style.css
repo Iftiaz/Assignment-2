@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap');
 
 body{
@@ -75,3 +80,40 @@ body{
 .images img{
     width: 280px;
 }
+.see-more-buttons{
+    float: right;
+}
+.see-more-button{
+    font-size: 20px;
+    color: rgb(133, 22, 2);
+    margin-right: 230px;
+
+}
+
+
+
+/* --------------------------footer style -------------------------------------- */
+
+.footer-style{
+    background-color: black;
+    height: 150px;
+}
+.footer-bolt{
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.p-white{
+    color: white;
+    text-align: center;
+}
+.fa-facebook {  
+    background: #3B5998;  
+    color: white;  
+  }
+  .icon{
+      color: white;
+      text-align: center;
+  }
+  
