@@ -85,6 +85,12 @@ body{
 
 
 }
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 h3{
     margin-top: 15px;
 }
@@ -162,6 +168,11 @@ h3{
         grid-template-columns: repeat(1, 1fr);
         /* justify-content: center;
         align-items: center; */
+    }
+    .center{
+        display: flex;
+        justify-content: start;
+        
     }
     .Influenc-title{
         font-size: 38px;
