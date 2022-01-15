@@ -66,10 +66,9 @@ body{
 .scnd-section{
     width: 910px;
     height: 1360px;
-    
-    margin-left: 200px;
     border-radius: 10px;
     background: rgb(216, 158,  10, 0.03);
+
 }
 .blog{
     display: grid;
@@ -97,9 +96,11 @@ h3{
 
 .star{
     margin-top: 8px;
-    font-size: 12px;
+    font-size: px;
+    
 
 }
+
 .text-margin{
     margin-top: 13px;
 }
